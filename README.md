@@ -22,6 +22,8 @@
 
 Some edits and updates have been made since submission.
 
+---
+
 This study simulates voltage traces, and compares three neuronal models:
 
 - Leaky Integrate-and-Fire (LIF)
