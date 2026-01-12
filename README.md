@@ -1,5 +1,7 @@
 # A Comparative Study Between Three Neuronal Models on Ex Vivo, Intracellular, Electrophysiological Datasets
 
+---
+
 ## Table of contents:
 
 [1. Description](#1-description)
@@ -12,8 +14,7 @@
 
 [5. Results](#5-results)
 
-
-
+---
 
 ### 1. Description
 
@@ -46,11 +47,15 @@ The means of assessments included:
 All experiments were subjected to at least two tests to assess the variance in numerical results and visual traces.
 Where results did not match expectations or were too varied to reach a definitive conclusion, further experiments were run.
 
+---
+
 ### 2. Computational Tools Used
 
+---
 
 ### 3. Usage Instructions
 
+---
 
 ### 4. Methods
 
