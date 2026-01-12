@@ -20,7 +20,7 @@
 
 **A comparative study between three neuronal models on Ex Vivo, Intracellular, Electrophysiological Datasets** is the dissertation for a MSc in Computer Science (Conversion).
 
-Some edits and updates have been made since submission.
+The code included is a sample used for the project. Some edits and updates have been made since submission.
 
 ---
 
