@@ -59,5 +59,6 @@ Where results did not match expectations or were too varied to reach a definitiv
 
 ### 4. Methods
 
+---
 
 ### 5. Results
