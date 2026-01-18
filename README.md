@@ -53,6 +53,13 @@ Where results did not match expectations or were too varied to reach a definitiv
 
 ### 2. Computational Tools Used
 
+- Python
+- Brian2
+- Allen SDK
+- NumPy
+- Pandas
+- Matplotlib
+
 ---
 
 ### 3. Usage Instructions
