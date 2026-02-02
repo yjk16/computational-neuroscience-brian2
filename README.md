@@ -8,12 +8,6 @@
 
 [2. Computational Tools Used](#2-computational-tools-used)
 
-[3. Usage Instructions](#3-usage-instructions)
-
-[4. Methods](#4-methods)
-
-[5. Results](#5-results)
-
 ---
 
 ### 1. Description
@@ -62,12 +56,5 @@ Where results did not match expectations or were too varied to reach a definitiv
 
 ---
 
-### 3. Usage Instructions
-
----
-
-### 4. Methods
-
----
 
 ### 5. Results
